@@ -144,7 +144,7 @@ main.test(filename)
 ## Authors
 
 * **Manne Naga Nithin** - [nithinmanne](https://github.com/nithinmanne)
-* **Mekala Rajasekhar Reddy**
+* **Mekala Rajasekhar Reddy** - [rajasekharmekala](https://github.com/rajasekharmekala)
 
 ## Acknowledgments
 
